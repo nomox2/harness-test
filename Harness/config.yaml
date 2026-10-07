@@ -1,0 +1,6 @@
+# CourtView Harness — 실행 입력값
+# 실행 전 아래 값을 채워주세요.
+
+service_name: CourtView
+prd: docs/prd.md
+design: docs/DESIGN.md
